@@ -7,3 +7,11 @@
 ../.idea/
 ../practice/target/
 
+/compiler.xml
+/jarRepositories.xml
+/misc.xml
+/modules.xml
+/myleets.iml
+/runConfigurations.xml
+/uiDesigner.xml
+/vcs.xml
