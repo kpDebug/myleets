@@ -1,9 +1,10 @@
 import LC.*;
+import interfaces.LeetCodeQuestion;
 
 public class Solution {
 
     public static void main(String[] args) {
-        LC1358 question = new LC1358();
+        LeetCodeQuestion question = new LC904();
         question.solution();
     }
 }
